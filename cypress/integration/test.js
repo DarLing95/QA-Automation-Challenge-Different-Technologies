@@ -91,9 +91,5 @@ describe('Click on “Buttons” and click “click me”. And verify that butto
         testcases.navigate('https://demoqa.com/elements');
         testcases.ClickOnButtons();
         testcases.ClickMeOnBtn();
-        
-    
-    })
-
-
-})
+    });
+});
