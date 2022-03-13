@@ -20,7 +20,6 @@ export class TestCases{
     testcases_clickonbuttons = '#item-4';
     testcases_dblclickonbtn = '#doubleClickBtn';
     testcases_rightclickonbtn = '#rightClickBtn';
-    //testcase_clickme = '#IarNH2SaIIhl';
 
     //Click on “Text Box” and enter valid details. And Click on SUBMIT button
 
